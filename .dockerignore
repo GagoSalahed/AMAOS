@@ -1,0 +1,12 @@
+# Ignore everything by default
+**
+
+# Allow only necessary files
+!Dockerfile
+!requirements.txt
+!setup.py
+!amaos/
+!tests/
+!scripts/
+!mypy.ini
+!pyproject.toml

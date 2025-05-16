@@ -1,0 +1,1 @@
+"""AMAOS Core module."""
